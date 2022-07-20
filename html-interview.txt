@@ -1,0 +1,80 @@
+                
+
+
+
+
+
+			1.what is HTML?
+				 
+				
+				* HTML stands for Hyper Text Markup Language.
+
+				* HTML is the standard markup language for creating Web pages.
+
+				* HTML describes the structure of a Web page.
+					
+                                * HTML consists of a series of elements.
+
+
+
+
+			2.WHAT IS ELEMENTS?
+	
+				* HTML element is defined by a start tag, some content, and an end tag.
+
+				EX:
+	`				
+					<h1>My First Heading</h1>
+                                                                      
+                                        <li>My first paragraph.</li>
+					
+					<p></p>,<ol></ol>,<ul></ul>,<a></a>,<div></div>,<section></section>,
+					
+					
+                                   
+ 				Empty tags:
+
+
+					* HTML elements with no content are called empty elements.
+					
+					ex:
+
+						<img>,<hr>,<br>,<input>
+
+					
+			
+			3.what is attribute?
+					
+			  	* All HTML elements can have attributes
+				
+				* Attributes provide additional information about elements
+			
+				* Attributes are always specified in the start tag		
+
+				EX:
+
+					href,src,placeholder,name,type,alt,class,width,height,target=blank
+
+
+
+  			4.HTML BASIC STRUCTURE:
+\
+				<html>
+
+				   <head>
+				
+				   </head>
+
+				    <body>
+
+				    </body>
+
+			       </html>
+
+
+			5.list out some tags?
+
+				<address>,<div>,<dt>,<form>,<h1>-<h6>,<header>,<hr>,<li>,<nav>,<ol>,<p>,<section>,<table>,<ul>,<video>,<audio>
+
+				<a>,<b>,<br>,<button>,<em>,<i>,<img>,<input>,<label>,<script>,<select>,<span>,<strong>,<sub>,<sup>,<textarea>.	
+             
